@@ -8,5 +8,6 @@
 marikoqil/marikoqil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-fb acc: Sheviannah Mariko Qil Constana 
+
+- ✨ FB account: Sheviannah Mariko Qil Constana 
 
